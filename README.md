@@ -8,7 +8,7 @@
   <a href="mailto:karemwaledmay@gmail.com"><strong>Email</strong></a>
 </p>
 
-## Hello, I'm Karem Waled
+# KAREM WALED
 
 **Mechatronics & Robotics Engineer | R&D | Embedded and Software Integration**
 
@@ -52,13 +52,23 @@ I am building a reproducible [ROS 2 mobile-robot learning project](https://githu
 - **NTI Embedded Software Intensive Diploma** — 2023
 - Experience in mechatronics R&D, embedded integration, ERP development, and robotics education
 
-## More Work
+## Complete Project Archive
+
+My portfolio now documents **26 engineering projects and focused case studies**, including the individual PLC process station, DC motor trainer, Raspberry Pi mobile robots, robotic demonstrators, mechanical vice, bevel-gear transmission, sheet-metal enclosure, and electronics teaching builds—not only the headline projects.
 
 - [Full engineering portfolio](https://karemwaledsa.github.io/)
 - [Odoo ERP workflow case studies](https://github.com/KaremWaledSa/odoo-erp-workflow-modules)
 - [Assistive communication glove](https://github.com/KaremWaledSa/smart-blind-assist-glove)
 - [Six-relay ESP8266 controller](https://github.com/KaremWaledSa/esp8266-6relay-web-controller)
 - [Kingdom of Steps mobile application](https://github.com/KaremWaledSa/kingdom-of-steps)
+
+## Verified Training & Credentials
+
+- NVIDIA — Fundamentals of Deep Learning (2025)
+- micro1 — Certified R&D Mechatronics Engineer (2025)
+- HackerRank — Introduction to Programming Using Python (2024)
+- NTI — Embedded Software Intensive Diploma (2023)
+- MATLAB Onramp (2022)
 
 ## Let's Connect
 
